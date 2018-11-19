@@ -1,0 +1,56 @@
+CORBA =   cuando se utiliza diferentes lengujaes de programacion
+RMI   =   CUANDO ES EL MISMO LENGUAJE DE PROGRAMACION
+
+
+
+EXTENSIBILIDAD  mantener la misma calidad de servicio aun si se cambia la cantida dde usuarios
+
+
+
+blockchain  q es
+
+
+tarea  
+
+
+01 usar una tecnologia del foro
+
+02 tarea de enuciiado reto programar
+
+
+PRINCIPO SOA
+
+
+BAJO ACOPLAMIENTO
+QUE DEPENDE DE UN MISMO LENGUAJE Y AHORA LOS LENGUAJES NO DEPENDEN DE UNO MISMO   UN SERVICIO PUEDE ESTAR ACOPLADO EN UN SISTEMA 
+SI PUEDE PERO NO DEBERIA
+ABSTRACION
+
+CAJA NEGRA NO PONER ALGO SECRETO DE LA EMPRESA
+
+REUTIZACION
+
+QUE PUEDES UTILIZAR OTROS CODIGO PARA REALIZAR OTRO SERVICIO
+
+ATONOMIA
+ QUE CADA LOGICA Y CLASE MANEJA SU PROPIA BASE DE DATOS
+
+SIN ESTADO 
+
+NO GUARDA LA SESIONES DE LOS USUARIOS
+
+-----------------------------------------------
+
+
+que es asincrona
+
+caracteristica MOM 
+
+
+el proyecto que use colas  para mas notas
+
+
+
+
+
+
